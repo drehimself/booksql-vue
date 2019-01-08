@@ -1,0 +1,6 @@
+mutation($id: ID!) {
+  deleteBook(id: $id) {
+    id
+    title
+  }
+}

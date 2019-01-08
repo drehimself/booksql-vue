@@ -1,5 +1,6 @@
 <template>
   <div class="home">
+    <router-link to="/books/add">Add a book</router-link>
     <ApolloQuery :query="categoriesQuery">
       <template slot-scope="{ result: { data, loading }, isLoading }">
         <div v-if="isLoading">Loading...</div>
