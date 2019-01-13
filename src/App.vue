@@ -1,31 +1,20 @@
 <template>
-  <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+  <div id="app" class="font-sans antialiased text-black">
+    <div id="nav" class="bg-purple-dark">
+      <div class="container flex items-center justify-between py-6">
+        <div>
+          <a href="/"><img src="./assets/logo.svg" alt="logo"></a>
+        </div>
+        <div>
+          <router-link to="/" class="text-white hover:text-grey-light">Home</router-link>
+          <router-link to="/about" class="text-white hover:text-grey-light pl-6">About</router-link>
+        </div>
+      </div>
     </div>
+
     <router-view/>
   </div>
 </template>
 
-<style>
-#app {
-  font-family: 'Avenir', Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-}
-#nav {
-  padding: 30px;
-}
+<style src="./assets/main.css">
 
-#nav a {
-  font-weight: bold;
-  color: #2c3e50;
-}
-
-#nav a.router-link-exact-active {
-  color: #42b983;
-}
-</style>

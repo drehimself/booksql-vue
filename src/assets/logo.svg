@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="135px" height="30px" viewBox="0 0 135 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.6 (67491) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 2</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-138.000000, -39.000000)">
+            <g id="Group-2" transform="translate(138.000000, 37.000000)">
+                <text id="BooksQL" font-family="Roboto-Bold, Roboto" font-size="24" font-weight="bold" fill="#FFFFFF">
+                    <tspan x="37" y="25">BooksQL</tspan>
+                </text>
+                <g id="bx-book" transform="translate(0.000000, 2.000000)">
+                    <path d="M3,9 L3,25.5 C3,26.7075 3.825,26.982 4.518,27 L21,27 L21,9 L3,9 Z M7.5,12 L18,12 L18,15 L7.5,15 L7.5,12 Z M4.518,6 L20.0685,6 L18.561,3 L4.518,3 C3.825,3.018 3,3.2925 3,4.5 C3,5.7075 3.825,5.982 4.518,6 Z" id="Shape"></path>
+                    <path d="M20.826,0.826500161 C20.5712682,0.319571449 20.0523314,-0.000265452671 19.485,1.65314934e-07 L4.5,1.65314934e-07 C2.691,1.65314934e-07 0,1.19850016 0,4.50000014 L0,25.5 C0,28.8015 2.691,30 4.5,30 L22.5,30 C23.3284271,30 24,29.3284271 24,28.5 L24,7.50000012 C23.9959901,7.26748065 23.9368711,7.0392301 23.8275,6.83400013 L23.841,6.82800013 L20.826,0.826500161 Z M4.518,3.00000015 L18.561,3.00000015 L20.0685,6.00000013 L4.518,6.00000013 C3.825,5.98200013 3,5.70750013 3,4.50000014 C3,3.29250015 3.825,3.01800015 4.518,3.00000015 Z M21,27 L4.518,27 C3.825,26.982 3,26.7075 3,25.5 L3,9.00000012 L21,9.00000012 L21,27 Z" id="Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+                    <polygon id="Path" fill="#FFFFFF" points="7 12 18 12 18 15 7 15"></polygon>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
