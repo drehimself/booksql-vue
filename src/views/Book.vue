@@ -5,7 +5,7 @@
         <div v-if="isLoading">Loading...</div>
         <div v-else class="flex mt-16 flex-col lg:flex-row">
           <div>
-            <img :src="`http://booksql-laravel.test/img/${data.book.image}`" alt="book cover">
+            <img :src="data.book.image" alt="book cover">
           </div>
 
           <div class="w-full lg:w-2/3 ml-0 mt-8 lg:mt-0 lg:ml-16">
